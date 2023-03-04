@@ -13,7 +13,7 @@ export default function ContactList(props) {
         <img src='https://api.lorem.space/image/movie?w=150&h=220'></img> 
         
       </div>
-        <h4  style={css}>akshay Patil</h4>
+        <h4  style={css}>akshay  Prakash Patil</h4>
     </div>
     
     </>
